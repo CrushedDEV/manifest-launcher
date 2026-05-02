@@ -1,0 +1,10 @@
+{
+  "version": "1.21.11",
+  "loader": "vanilla",
+  "server": {
+    "ip": "minecraft.crusheed.dev",
+    "port": 25565
+  },
+  "mods": [
+  ]
+}
